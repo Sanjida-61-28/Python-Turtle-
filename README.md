@@ -1,2 +1,2 @@
-# Python-Turtle-
+# Python(Turtle)
 This is my 2nd repository
